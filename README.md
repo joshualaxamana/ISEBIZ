@@ -16,7 +16,7 @@
     </div>
     <style>
      html {
-      background:#018DED url('http://wallpapercave.com/wp/67wkiGD.jpg');
+      background:#018DED url("http://wallpapercave.com/wp/67wkiGD.jpg");
       background-size:cover;
       font-family:'helvetica neue';
       text-align: center;
